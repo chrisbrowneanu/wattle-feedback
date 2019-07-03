@@ -1,0 +1,7 @@
+### shortcuts for scripts ###
+### ===================== ###
+functions="./scripts/functions.sh"
+data="./files/assignment_data.txt"
+tmp="./scripts/variables.tmp"
+var="./scripts/variables.txt"
+log="./feedback/log.txt"
